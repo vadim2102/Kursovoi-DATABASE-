@@ -1,5 +1,7 @@
 СОЗДАНИЕ ТАБЛИЦ
 
+// My first change
+
 CREATE  TABLE acc_inf (
     id_a           NUMBER NOT NULL,
     balance      NUMBER,
