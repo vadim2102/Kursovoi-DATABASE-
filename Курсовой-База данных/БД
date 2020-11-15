@@ -1,6 +1,8 @@
 СОЗДАНИЕ ТАБЛИЦ
 
-// My first change
+// My first 
+
+
 
 CREATE  TABLE acc_inf (
     id_a           NUMBER NOT NULL,
